@@ -1,3 +1,6 @@
 [submodule "TC-1-ShuntingYard"]
 	path = TC-1-ShuntingYard
 	url = git@github.com:DanielRasho/CT-1-ShuntingYard.git
+[submodule "TC-2-thompson"]
+	path = TC-2-thompson
+	url = git@github.com:DanielRasho/TC-2-Thompson.git
